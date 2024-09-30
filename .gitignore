@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+yarn-error.log
+dist/
+build/
+.next/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+target/
+.idea/
+*.iml
+
+# H2 Database
+*.mv.db
+*.script
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
